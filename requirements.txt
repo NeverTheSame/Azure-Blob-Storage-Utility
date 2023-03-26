@@ -1,4 +1,0 @@
-pip
-setuptools
-azure-core
-azure-storage-blob
